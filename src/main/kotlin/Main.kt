@@ -27,7 +27,7 @@ fun main() {
 
             Users.insert {
                 it[id] = "andrey"
-                it[name] = "Andrey"
+                it[name] = "Andreygit push --help"
                 it[Users.cityId] = saintPetersburgId
             }
 
